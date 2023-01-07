@@ -66,7 +66,7 @@ jobs:
           npm install
         env:
           CI: true
-      - uses: LifeOfChaos/action-stylelint-reviewdog@v.0.0.1
+      - uses: LifeOfChaos/action-stylelint-reviewdog@v1
         name: Running stylelint with Reviewdog 🐶
         with:
           reporter: github-pr-review
