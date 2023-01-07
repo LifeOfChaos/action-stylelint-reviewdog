@@ -44,8 +44,6 @@ Optional. Working directory. Default '.'
 
 ## Example usage
 
-You also need to install [stylelint](https://github.com/stylelint/stylelint).
-
 ```yml
 name: Style Linter
 
